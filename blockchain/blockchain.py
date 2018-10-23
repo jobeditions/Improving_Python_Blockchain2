@@ -1,9 +1,6 @@
 '''
 title           : blockchain.py
 description     : A blockchain implemenation
-author          : Adil Moujahid
-date_created    : 20180212
-date_modified   : 20180309
 version         : 0.5
 usage           : python blockchain.py
                   python blockchain.py -p 5000
